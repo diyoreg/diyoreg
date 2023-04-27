@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Diyor Yuldashev - @diyoreg
+- 👀 I’m interested in coding, new technologies and AI
+- 🌱 I’m currently learning Python and Django
+- 💞️ I’m looking to collaborate on some interesting Python projects
+- 📫 You can reach me on Telegram: @begunok
